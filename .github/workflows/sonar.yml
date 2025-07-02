@@ -19,11 +19,11 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
       - name: SonarQube Scan
-        uses: sonarsource/sonarcloud-github-action@master
+        uses: sonarsource/sonarqube-scan-action@v2
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_HOST_URL: http://ryzenpc.loseyourip.com:9000
         with:
           args: >
             -Dsonar.projectKey=sqp_aef8424587ef9a2709ae3169657799227b36cc72
-            -Dsonar.sources=.
+            -Dsonar.sources=.  
