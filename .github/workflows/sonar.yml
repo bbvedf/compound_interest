@@ -25,5 +25,5 @@ jobs:
           SONAR_HOST_URL: https://e530-77-226-126-42.ngrok-free.app
         with:
           args: >
-            -Dsonar.projectKey=sqp_aef8424587ef9a2709ae3169657799227b36cc72
+            -Dsonar.projectKey=compound_interest
             -Dsonar.sources=.  
