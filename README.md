@@ -1,4 +1,7 @@
 ![Python](https://img.shields.io/badge/python-3.11.9%2B-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+
 
 # Calculadora de Interés Compuesto
 Una aplicación en Streamlit para calcular la evolución de un saldo en interés compuesto
