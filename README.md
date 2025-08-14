@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3.11.9%2B-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.11.9%2B-blue?logo=python&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/streamlit-1.46.1-FF4B4B?logo=streamlit&logoColor=white)
 
 
